@@ -20,4 +20,10 @@
         <developerConnection>scm:git:git@github.com:Brainfuse/test-maven-release.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
+  <distributionManagement>
+	<repository>
+	<id>dev-deploy-repro</id>
+	<url>${devDeployRepo.url}</url>
+	</repository>
+</distributionManagement>
 </project>
