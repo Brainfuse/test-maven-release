@@ -31,6 +31,28 @@
 	<profiles>
 		<profile>
 			<id>dev-machine</id>
+			<build>
+				<plugins>
+					<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-deploy-plugin</artifactId>
+					<version>2.7</version>
+					<configuration>
+	
+					</configuration>
+					<executions>
+						<execution>
+							<id>deploy-on-install</id>
+							<phase>install</phase>
+							<inherited>true</inherited>
+						</execution>
+					</executions>
+				</plugin>
+										
+				
+				</plugins>			
+			</build>
+				
 			<distributionManagement>
 				<repository>
 					<uniqueVersion>false</uniqueVersion>
