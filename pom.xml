@@ -25,7 +25,7 @@
 		</plugins>
 	</build>
 	<scm>
-		<developerConnection>scm:git:git@github.com:Brainfuse/test-maven-release.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/Brainfuse/client/</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	<profiles>
