@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.brainfuse.client.test</groupId>
 	<artifactId>test-maven-release</artifactId>
-	<version>0.0.14-SNAPSHOT</version>
+	<version>0.0.20</version>
 	<name>test-maven-release</name>
 	<build>
 		<extensions>
@@ -32,7 +31,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:Brainfuse/test-maven-release.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>test-maven-release-0.0.20</tag>
 	</scm>
 	<profiles>
 		<profile>
