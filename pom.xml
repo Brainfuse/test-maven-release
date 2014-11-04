@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.brainfuse.client.test</groupId>
 	<artifactId>test-maven-release</artifactId>
-	<version>0.0.22-SNAPSHOT</version>
+	<version>0.0.22</version>
 	<name>test-maven-release</name>
 	<build>
 		<extensions>
@@ -31,7 +31,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:Brainfuse/test-maven-release.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>test-maven-release-0.0.22</tag>
 	</scm>
 	<profiles>
 		<profile>
