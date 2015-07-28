@@ -79,6 +79,9 @@
 			</distributionManagement>
 			<!-- test comment another comment -->
 			<!-- bug fixed -->
+			<!-- bug 2 fixed -->
+			
+			
 		</profile>
 	</profiles>
 </project>
