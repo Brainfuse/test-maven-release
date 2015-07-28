@@ -78,6 +78,7 @@
 				</snapshotRepository>
 			</distributionManagement>
 			<!-- test comment another comment -->
+			<!-- bug fixed -->
 		</profile>
 	</profiles>
 </project>
