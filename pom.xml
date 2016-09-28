@@ -5,6 +5,7 @@
 	<version>0.0.26-SNAPSHOT</version>
 	<name>test-maven-release</name>
 	<build>
+	
 		<extensions>
 			<extension>
 				<groupId>org.apache.maven.wagon</groupId>
