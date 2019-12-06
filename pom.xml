@@ -35,7 +35,7 @@
 		<tag>HEAD</tag>
 	</scm>
 	<profiles>
-		<profile>
+		<!-- <profile>
 			<id>dev-machine</id>
 			<build>
 				<plugins>
@@ -62,7 +62,7 @@
 				</plugins>			
 			</build>
 				
-			<!-- <distributionManagement>
+			<distributionManagement>
 				<repository>
 					<uniqueVersion>false</uniqueVersion>
 					<id>dev-maven</id>
@@ -77,12 +77,12 @@
 					<url>ftp://dev3.trustforte.com/maven</url>
 					<layout>default</layout>
 				</snapshotRepository>
-			</distributionManagement> -->
-			<!-- test comment another comment -->
-			<!-- bug fixed -->
-			<!-- bug 2 fixed -->
+			</distributionManagement>
+			test comment another comment
+			bug fixed
+			bug 2 fixed
 			
 			
-		</profile>
+		</profile> -->
 	</profiles>
 </project>
