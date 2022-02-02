@@ -4,6 +4,10 @@
 	<artifactId>test-maven-release</artifactId>
 	<version>NIGHTLY-SNAPSHOT</version>
 	<name>test-maven-release</name>
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+    		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
 	<build>
 	
 		<extensions>
