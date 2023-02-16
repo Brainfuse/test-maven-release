@@ -48,7 +48,7 @@
 	</dependencies>
 	<scm>
 		<developerConnection>scm:git:git@github.com:Brainfuse/test-maven-release.git</developerConnection>
-		<tag>test-maven-release-NIGHTLY</tag>
+		<tag>NIGHTLY-SNAPSHOT</tag>
 	</scm>
 	<profiles>
 		<!-- <profile>
