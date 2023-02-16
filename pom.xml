@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.brainfuse.client.test</groupId>
 	<artifactId>test-maven-release</artifactId>
-	<version>NIGHTLY-SNAPSHOT</version>
+	<version>1.0.30</version>
 	<name>test-maven-release</name>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -47,7 +47,7 @@
 	</dependencies>
 	<scm>
 		<developerConnection>scm:git:git@github.com:Brainfuse/test-maven-release.git</developerConnection>
-		<tag>test-maven-release-NIGHTLY</tag>
+		<tag>test-maven-release-1.0.30</tag>
 	</scm>
 	<profiles>
 		<!-- <profile>
