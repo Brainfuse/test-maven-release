@@ -34,6 +34,7 @@
 				<configuration>
 					<pushChanges>false</pushChanges>
 					<tagNameFormat>@{project.version}</tagNameFormat>
+					<preparationGoals>release:clean clean verify</preparationGoals>
 				</configuration>
 			</plugin>
 		</plugins>
