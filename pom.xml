@@ -33,7 +33,7 @@
 				<version>3.0.0-M7</version>
 				<configuration>
 					<pushChanges>false</pushChanges>
-					<tagNameFormat>${project.version}</tagNameFormat>
+					<tagNameFormat>@{project.version}</tagNameFormat>
 				</configuration>
 			</plugin>
 		</plugins>
