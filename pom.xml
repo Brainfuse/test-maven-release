@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.brainfuse.client.test</groupId>
 	<artifactId>test-maven-release</artifactId>
-	<version>1.0.38</version>
+	<version>1.0.39-SNAPSHOT</version>
 	<name>test-maven-release</name>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
